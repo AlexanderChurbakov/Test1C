@@ -242,6 +242,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Document>newdoc</Document>
+			<Report>Отчет1</Report>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
